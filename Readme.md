@@ -2,10 +2,14 @@
 
  Añadí diferentes obstáculos y elevaciones para ubicar los recolectables encima y aumentar la dificultad. Además, incorporé varias rutas de escape frente al objeto que nos persigue.
 
-![img.png](img.png)
+![alt text](image.png)
 
-![img_1.png](img_1.png)
+## Comportamiento del enemigo
 
-![img_2.png](img_2.png)
+Los dos enemigos cuando se acercan a 10 metros al player aumentan la velocidad, si el player se vuelve a alejar vuelve a recuperar la velocidad original.
+![alt text](image-1.png)
 
-![img_3.png](img_3.png)
+Por muchas elevaciones que tiene el juego, está programado para que los dos enemigos puedan llegar hasta cualquier parte del mapa
+
+
+
